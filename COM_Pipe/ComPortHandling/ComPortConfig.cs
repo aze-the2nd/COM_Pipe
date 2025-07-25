@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace COM_Pipe.ComPortHandling
 {
-    internal class PortConfiguration
+    internal class ComPortConfig
     {
         // holds all connection parameters
 
-        public PortConfiguration() { }
+        public ComPortConfig() { }
 
     }          
 }
