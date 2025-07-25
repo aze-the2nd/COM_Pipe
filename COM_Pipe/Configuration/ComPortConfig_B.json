@@ -1,0 +1,11 @@
+{
+  "Port": [
+    {
+      "PortName": "COM6",
+      "BaudRate": 9600,
+      "DataBits": 8,
+      "Parity": "None",
+      "StopBits": "One"
+    }
+  ]
+}

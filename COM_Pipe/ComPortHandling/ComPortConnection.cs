@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace COM_Pipe.ComPortHandling
 {
-    internal class ComPortConfig
+    internal class ComPortConnection
     {
-        // holds all connection parameters
-
-        public ComPortConfig() { }
-
-    }          
+        public ComPortConnection() { }
+    }
 }

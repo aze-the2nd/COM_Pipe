@@ -10,4 +10,6 @@ namespace COM_Pipe.ComPortHandling
     {
         // optional Interface to discover/list available ports
     }
+    
+
 }
